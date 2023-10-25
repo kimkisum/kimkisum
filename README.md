@@ -76,8 +76,6 @@ Perfact Server라는 Swift를 사용하는 백엔드 서버와 Mapbox Gl을 사�
 라즈베리파이에 지문 모듈을 사용하여 지문정보를 웹에서 공유하여 한곳에서 등록 시 여러 곳에서 같이 사용할 수 있는 시스템을 구축해봤습니다.
 
 
-  
-https://kingseob.tistory.com/
 
 <div align=center>
 
